@@ -2,34 +2,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
-# 👋 Hi there, I'm Nguyen Dinh Tuan Khoa
+loi there, I'm Nguyen Dinh Tuan Khoa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<br clear="both">
-
-![Profile Views](https://komarev.com/ghpvc/?username=NguyenDinhTuanKhoa&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenDinhTuanKhoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDinhTuanKhoa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-
-<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Cute Cat"
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake-dark.svg">
