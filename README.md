@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img align="left" width="150" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Curious Cat">
+<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Cute Cat"
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake-dark.svg">
