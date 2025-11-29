@@ -33,25 +33,7 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDinhTuanKhoa&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## � Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenDinhTuanKhoa&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## �🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake-dark.svg">
