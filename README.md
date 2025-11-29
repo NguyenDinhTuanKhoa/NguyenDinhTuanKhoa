@@ -12,20 +12,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/NguyenDinhTuanKhoa)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NguyenDinhTuanKhoa)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenDinhTuanKhoa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/NguyenDinhTuanKhoa)
-
-</div>
-
----
 
 <div align="center">
 
