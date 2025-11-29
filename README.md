@@ -27,11 +27,19 @@
 
 ## 🐍 GitHub Contribution Snake
 
+<div align="center">
+
+<img align="left" width="150" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Curious Cat">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake.svg">
 </picture>
+
+<br clear="both">
+
+</div>
 
 ---
 
