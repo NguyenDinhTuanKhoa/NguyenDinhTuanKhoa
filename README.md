@@ -14,17 +14,15 @@ loi there, I'm Nguyen Dinh Tuan Khoa
 
 ---
 
-## ᗧ•••ᗣ Pacman Contribution Graph
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/pacman-contribution-graph-light.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/pacman-contribution-graph-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake.svg">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/NguyenDinhTuanKhoa/NguyenDinhTuanKhoa/output/github-snake.svg">
 </picture>
-
-<br clear="both">
 
 </div>
 
