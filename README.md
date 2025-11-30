@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/cIH8aNzDiCPUvLuLPC/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/cIH8aNzDiCPUvLuLPC/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/cIH8aNzDiCPUvLuLPC/giphy.gif" width="80" alt="Cute Duck">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVpOXMxYXNiNXVkZzM4cWI5aGFqc2VoYnJ3cjBxdXRoY2VmYnVocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvA1ieS8rEV8Y/giphy.gif" width="60" alt="Cute Duck"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVpOXMxYXNiNXVkZzM4cWI5aGFqc2VoYnJ3cjBxdXRoY2VmYnVocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvA1ieS8rEV8Y/giphy.gif" width="60" alt="Cute Duck"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVpOXMxYXNiNXVkZzM4cWI5aGFqc2VoYnJ3cjBxdXRoY2VmYnVocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvA1ieS8rEV8Y/giphy.gif" width="60" alt="Cute Duck"> 🦆
 
 ## 👋 Hey there! Welcome to my profile
 
