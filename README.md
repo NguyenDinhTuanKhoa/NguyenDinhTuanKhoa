@@ -1,10 +1,12 @@
 <div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-loi there, I'm Nguyen Dinh Tuan Khoa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Nguyen%20Dinh%20Tuan%20Khoa&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+## 👋 Hey there! Welcome to my profile
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%94%A5;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 
 
