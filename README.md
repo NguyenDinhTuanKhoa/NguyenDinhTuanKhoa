@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif" width="80" alt="Cute Duck">
+<img src="https://media.giphy.com/media/cIH8aNzDiCPUvLuLPC/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/cIH8aNzDiCPUvLuLPC/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/cIH8aNzDiCPUvLuLPC/giphy.gif" width="80" alt="Cute Duck">
 
 ## 👋 Hey there! Welcome to my profile
 
