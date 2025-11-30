@@ -19,8 +19,6 @@
 </tr>
 </table>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVpOXMxYXNiNXVkZzM4cWI5aGFqc2VoYnJ3cjBxdXRoY2VmYnVocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvA1ieS8rEV8Y/giphy.gif" width="60" alt="Cute Duck"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVpOXMxYXNiNXVkZzM4cWI5aGFqc2VoYnJ3cjBxdXRoY2VmYnVocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvA1ieS8rEV8Y/giphy.gif" width="60" alt="Cute Duck"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVpOXMxYXNiNXVkZzM4cWI5aGFqc2VoYnJ3cjBxdXRoY2VmYnVocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvA1ieS8rEV8Y/giphy.gif" width="60" alt="Cute Duck"> 🦆
-
 ## 👋 Hey there! Welcome to my profile
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%94%A5;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
