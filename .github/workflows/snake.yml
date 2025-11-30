@@ -21,9 +21,9 @@ jobs:
         with:
           github_user_name: NguyenDinhTuanKhoa
           outputs: |
-            dist/github-snake.svg?color_snake=#FF6600&color_dots=#ffffff,#c6f6c6,#7bc96f,#239a3b,#196127
-            dist/github-snake-dark.svg?color_snake=#FF6600&color_dots=#ffffff,#c6f6c6,#7bc96f,#239a3b,#196127
-            dist/ocean.gif?color_snake=#FF6600&color_dots=#ffffff,#c6f6c6,#7bc96f,#239a3b,#196127
+            dist/github-snake.svg?color_snake=orange&color_dots=#c6f6c6,#7bc96f,#239a3b,#196127,#0d4011&color_empty=#efefef
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=#c6f6c6,#7bc96f,#239a3b,#196127,#0d4011&color_empty=#efefef
+            dist/ocean.gif?color_snake=orange&color_dots=#c6f6c6,#7bc96f,#239a3b,#196127,#0d4011&color_empty=#efefef
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
