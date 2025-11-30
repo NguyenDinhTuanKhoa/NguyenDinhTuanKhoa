@@ -4,7 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Falling Leaves" width="100%"/>
 
+<img align="left" alt="Tree" width="180" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+<br><br>
 
 ## 👋 Hey there! Welcome to my profile
 
