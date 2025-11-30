@@ -19,6 +19,8 @@
 </tr>
 </table>
 
+<img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif" width="80" alt="Cute Duck"> <img src="https://media.giphy.com/media/KzM1lAfJjCWNq/giphy.gif" width="80" alt="Cute Duck">
+
 ## 👋 Hey there! Welcome to my profile
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%94%A5;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
