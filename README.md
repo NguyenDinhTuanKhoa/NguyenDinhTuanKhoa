@@ -4,11 +4,20 @@
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Falling Leaves" width="100%"/>
 
-<img align="left" alt="Tree" width="180" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+<table>
+<tr>
+<td width="50%">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="300" alt="Tree in wind">
 
-<br><br>
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Coding">
+
+</td>
+</tr>
+</table>
 
 ## 👋 Hey there! Welcome to my profile
 
